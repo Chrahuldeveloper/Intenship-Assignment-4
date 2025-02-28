@@ -46,4 +46,4 @@ This React app allows users to:
 - Styling the UI for a smooth user experience.
 
 ## Demo Video
-Watch the working demo here: [https://firebasestorage.googleapis.com/v0/b/skedule-ad781.appspot.com/o/React%20App%20(1).webm?alt=media&token=ae39af9c-8a3a-4286-8a88-ad8267f667c9](#) *(Replace with actual link)*
+Watch the working demo here: [Watch Now](https://firebasestorage.googleapis.com/v0/b/skedule-ad781.appspot.com/o/React%20App%20(1).webm?alt=media&token=ae39af9c-8a3a-4286-8a88-ad8267f667c9)
